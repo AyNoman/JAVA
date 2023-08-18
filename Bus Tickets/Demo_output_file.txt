@@ -1,0 +1,8 @@
+
+Issue date: Fri Feb 05 14:36:10 BDT 2021
+Name: Piash Liza      ID: 41001
+Destination: Dhaka to Cox's Bazar
+Departure date: 07/02/2021   Departure time: 10am
+Number of seats: 2        Ac or NonAc: AC-Bus
+Ticket price= 2790.0TK         Food price= 200.0TK
+                 Total= 2990.0TK
